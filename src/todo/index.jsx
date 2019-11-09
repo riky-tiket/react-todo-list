@@ -11,39 +11,43 @@ export default class todo extends Component {
     this.state = {
       data: [
         {
-          name: 'memasak',
+          name: 'Baca Dokumentasi',
           status: true,
           subTodo: [
             {
-              name: 'masak air',
+              name: 'Javascript',
               status: true,
             },
             {
-              name: 'masak nasi',
+              name: 'ReactJS',
               status: true,
             },
           ]
         },
         {
-          name: 'belanja',
+          name: 'Update Jira',
           status: true,
           subTodo: []
         },
         {
-          name: 'ngepel',
+          name: 'Pemanasan Coding',
           status: true,
           subTodo: []
         },
         {
-          name: 'beberes rumah',
+          name: 'Task Hari ini',
           status: true,
           subTodo: [
             {
-              name: 'kamar mandi',
+              name: 'Feature Order',
               status: true,
             },
             {
-              name: 'ruang tamu',
+              name: 'Feature Payment',
+              status: true,
+            },
+            {
+              name: 'Feature Booking',
               status: true,
             },
           ]
