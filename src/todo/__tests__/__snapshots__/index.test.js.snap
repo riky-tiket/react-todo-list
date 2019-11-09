@@ -1,0 +1,159 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Todo Test UI Should render without error 1`] = `
+<div>
+  <div
+    className="main-container"
+  >
+    <div
+      className="main-title"
+    >
+      TODO
+    </div>
+    <div
+      className="new-todo"
+      onClick={[Function]}
+    >
+      Add New Todo
+    </div>
+    <div
+      className="clear-todo"
+      onClick={[Function]}
+    >
+      Clear Todo List
+    </div>
+    <div>
+      <div
+        className="todo-list"
+        onClick={[Function]}
+      >
+        <span>
+          1
+           .
+        </span>
+        memasak
+      </div>
+      <div
+        className="remove-todo"
+        onClick={[Function]}
+      >
+        Hapus
+      </div>
+      <div
+        className="pull-right"
+        onClick={[Function]}
+      >
+        <button>
+          +
+        </button>
+      </div>
+      <div
+        className="todo-list sub-todo"
+        onClick={[Function]}
+      >
+        - 
+        masak air
+      </div>
+      <div
+        className="todo-list sub-todo"
+        onClick={[Function]}
+      >
+        - 
+        masak nasi
+      </div>
+    </div>
+    <div>
+      <div
+        className="todo-list"
+        onClick={[Function]}
+      >
+        <span>
+          2
+           .
+        </span>
+        belanja
+      </div>
+      <div
+        className="remove-todo"
+        onClick={[Function]}
+      >
+        Hapus
+      </div>
+      <div
+        className="pull-right"
+        onClick={[Function]}
+      >
+        <button>
+          +
+        </button>
+      </div>
+    </div>
+    <div>
+      <div
+        className="todo-list"
+        onClick={[Function]}
+      >
+        <span>
+          3
+           .
+        </span>
+        ngepel
+      </div>
+      <div
+        className="remove-todo"
+        onClick={[Function]}
+      >
+        Hapus
+      </div>
+      <div
+        className="pull-right"
+        onClick={[Function]}
+      >
+        <button>
+          +
+        </button>
+      </div>
+    </div>
+    <div>
+      <div
+        className="todo-list"
+        onClick={[Function]}
+      >
+        <span>
+          4
+           .
+        </span>
+        beberes rumah
+      </div>
+      <div
+        className="remove-todo"
+        onClick={[Function]}
+      >
+        Hapus
+      </div>
+      <div
+        className="pull-right"
+        onClick={[Function]}
+      >
+        <button>
+          +
+        </button>
+      </div>
+      <div
+        className="todo-list sub-todo"
+        onClick={[Function]}
+      >
+        - 
+        kamar mandi
+      </div>
+      <div
+        className="todo-list sub-todo"
+        onClick={[Function]}
+      >
+        - 
+        ruang tamu
+      </div>
+    </div>
+  </div>
+</div>
+`;
