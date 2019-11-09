@@ -1,5 +1,5 @@
 ## visit the app
-`https://riky-tiket.github.io/react-todo-list/`
+[React Todo List](https://riky-tiket.github.io/react-todo-list)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
